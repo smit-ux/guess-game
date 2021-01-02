@@ -1,0 +1,25 @@
+IF YOU GUESS RIGHT NUMBER ITS LOOK LIKE THIS :
+
+##############################################
+#				GUESS GAME                   #
+#   ^-^      BY: SMIT PRAJAPATI       ^-^    #
+##############################################
+GUESS THE NUMBER:1
+GUESS THE NUMBER:2
+GUESS THE NUMBER:9
+##############################################
+#			YOU WIN !!!!:)                   #
+##############################################
+
+IF YOU GUESS WRONG NUMBER ITS LOOK LIKE THIS :
+
+##############################################
+#				GUESS GAME                   #
+#   ^-^      BY: SMIT PRAJAPATI       ^-^    #
+##############################################
+GUESS THE NUMBER:2
+GUESS THE NUMBER:2
+GUESS THE NUMBER:5
+##############################################
+#			YOU LOST :((                     #
+##############################################
